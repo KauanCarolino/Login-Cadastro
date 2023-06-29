@@ -11,7 +11,7 @@ logado.innerHTML = 'Olá ${userLogado.nome}';
 function sair() {
     localStorage.removeItem("token");
     localStorage.removeItem("userLogado");
-    window.location.href="../html/sigin.html";
+    window.location.href="../assets/html/sigin.html";
 }
 
 //testando nova branch de projeto compartilhado
