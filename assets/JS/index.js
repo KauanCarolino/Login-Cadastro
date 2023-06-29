@@ -13,3 +13,5 @@ function sair() {
     localStorage.removeItem("userLogado");
     window.location.href="../html/sigin.html";
 }
+
+//testando nova branch de projeto compartilhado
